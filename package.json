@@ -1,0 +1,23 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.6",
+    "nodemailer-juice": "^1.0.1",
+    "react": "^16.13.1",
+    "styled-components": "^5.1.0"
+  },
+  "devDependencies": {
+    "css-loader": "^3.5.3",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
